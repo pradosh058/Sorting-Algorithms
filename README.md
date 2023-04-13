@@ -11,6 +11,7 @@ The following algorithms are implemented:
 - [Quick Sort]
 - [Merge Sort]
 - [Selection Sort]
+-[Counting Sort]
 
 ## Usage
 
