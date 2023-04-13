@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-This repository contains implementations of various sorting algorithms in [insert programming language here].
+This repository contains implementations of various sorting algorithms in [JAVA].
 
 ## Algorithms
 
