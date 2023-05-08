@@ -12,6 +12,7 @@ The following algorithms are implemented:
 - [Merge Sort]
 - [Selection Sort]
 - [Counting Sort]
+- [Heap Sort]
 
 ## Usage
 
