@@ -1,18 +1,18 @@
 # Sorting-Algorithms
 
-This repository contains implementations of various sorting algorithms in [JAVA].
+This repository contains implementations of various sorting algorithms in JAVA.
 
 ## Algorithms
 
 The following algorithms are implemented:
 
-- [Insertion Sort]
-- [Bubble Sort]
-- [Quick Sort]
-- [Merge Sort]
-- [Selection Sort]
-- [Counting Sort]
-- [Heap Sort]
+- Insertion Sort
+- Bubble Sort
+- Quick Sort
+- Merge Sort
+- Selection Sort
+- Counting Sort
+- Heap Sort
 
 ## Usage
 
